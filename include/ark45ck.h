@@ -1,0 +1,36 @@
+#ifndef HAS_ARK45
+#define HAS_ARK45
+
+
+#define a2 0.2
+#define a3 0.3
+#define a4 0.6
+#define a5 1.0
+#define a6 0.875 
+
+#define b21 0.2
+#define b31 0.075
+#define b32 0.225
+#define b41 0.3
+#define b42 -0.9
+#define b43 1.2
+#define b51 -0.20370370370370370370
+#define b52 2.5
+#define b53 -2.59259259259259259259
+#define b54 1.29629629629629629629
+#define b61 0.0294958043981481
+#define b62 0.341796875
+#define b63 0.0415943287037037
+#define b64 0.400345413773148
+#define b65 0.061767578125
+#define c41 0.102177372685185
+#define c43 0.383907903439153
+#define c44 0.244592737268519
+#define c45 0.0193219866071429
+#define c46 0.25
+#define c51 0.0978835978835979
+#define c53 0.402576489533011
+#define c54 0.21043771043771
+#define c56 0.28910220214568
+
+#endif
