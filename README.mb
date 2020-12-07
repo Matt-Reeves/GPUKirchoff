@@ -1,3 +1,7 @@
+# GPU Kirchoff
+
+<img align="right" src="vortfluid.gif" width="100" height="100">
+
 The code simulates damped point vortex dynamics in a disk. Annihilations 
 and extra repulsion of same-sign vortices are also included at small 
 scales. See:
