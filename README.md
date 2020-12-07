@@ -4,8 +4,16 @@
 
 The code simulates damped point vortex dynamics in a disk. Annihilations 
 and extra repulsion of same-sign vortices are also included at small 
-scales. See:
+scales. 
 
+The N-body problem is accelerated using a shared memory N-body algorithm,
+adapted from H. Nguyen, "GPU Gems 3". 
+
+This allows to solve for N ~ 10^4 - 10^5 vortices.
+
+
+
+M. T. Reeves et. al, Physical Review Letters 119 (18), 184502
 T. P. Billam et. al, Physical Review A 91 (2), 023615
 
 ********************************** COMPILATION ******************************
