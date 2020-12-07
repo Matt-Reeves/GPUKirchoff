@@ -14,6 +14,7 @@ This allows to solve for N ~ 10^4 - 10^5 vortices.
 
 
 M. T. Reeves et. al, Physical Review Letters 119 (18), 184502
+
 T. P. Billam et. al, Physical Review A 91 (2), 023615
 
 ********************************** COMPILATION ******************************
